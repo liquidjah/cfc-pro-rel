@@ -1,7 +1,9 @@
 {
-"proRelMode":"vertical"
+	"promotionRoutes":"vertical" {
 },
-{
+"baseYear":2022,
+"relegationRoutes":"vertical":{
+},
 	"conferences": [{
 			"confTeams": [{
 					"abbreviation": "BAMA",
