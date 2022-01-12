@@ -29,7 +29,7 @@
         {
           "abbreviation" : "KUTZ",
           "prestige" : "93",
-          "hexColor" : "#800e0e",
+          "hexColor" : "#800E0E",
           "rival" : "SU",
           "headCoach" : {
             "contractLength" : "5",
@@ -53,7 +53,7 @@
         {
           "abbreviation" : "CPA",
           "prestige" : "88",
-          "hexColor" : "#Bd1b1b",
+          "hexColor" : "#BD1B1B",
           "rival" : "IPA",
           "headCoach" : {
             "contractLength" : "5",
@@ -77,7 +77,7 @@
         {
           "abbreviation" : "IPA",
           "prestige" : "85",
-          "hexColor" : "#De2a2a",
+          "hexColor" : "#DE2A2A",
           "rival" : "CPA",
           "headCoach" : {
             "contractLength" : "5",
@@ -125,7 +125,7 @@
         {
           "abbreviation" : "ROCK",
           "prestige" : "81",
-          "hexColor" : "#1c7b1e",
+          "hexColor" : "#1C7B1E",
           "rival" : "MSST",
           "headCoach" : {
             "contractLength" : "5",
@@ -149,7 +149,7 @@
         {
           "abbreviation" : "WCU",
           "prestige" : "69",
-          "hexColor" : "#501c7b",
+          "hexColor" : "#501C7B",
           "rival" : "GAN",
           "headCoach" : {
             "contractLength" : "5",
@@ -173,7 +173,7 @@
         {
           "abbreviation" : "GAN",
           "prestige" : "59",
-          "hexColor" : "#F3dd2c",
+          "hexColor" : "#F3DD2C",
           "rival" : "WCU",
           "headCoach" : {
             "contractLength" : "5",
@@ -197,7 +197,7 @@
         {
           "abbreviation" : "ESU",
           "prestige" : "59",
-          "hexColor" : "#Da1c12",
+          "hexColor" : "#DA1C12",
           "rival" : "EDIN",
           "headCoach" : {
             "contractLength" : "5",
